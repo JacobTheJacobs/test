@@ -1,1 +1,1 @@
-print("Bright hello world ")
+print("Brdsight hello world ")
