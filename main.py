@@ -1,1 +1,1 @@
-print("B hello world ")
+print("B2 hello world ")
